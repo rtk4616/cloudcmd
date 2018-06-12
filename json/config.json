@@ -10,7 +10,7 @@
     "zip" : true,
     "buffer": true,
     "dirStorage": false,
-    "online": true,
+    "online": false,
     "open": false,
     "keysPanel": true,
     "port": 8000,
